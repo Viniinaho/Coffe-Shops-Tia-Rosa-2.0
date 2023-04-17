@@ -1,0 +1,60 @@
+*{margin: 0;
+padding: 0;
+text-decoration: none;}
+  
+body{font-size: 100%;
+background: #faf4f4d5;
+margin: 1%;}
+.Cabeçalho{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: space-around;
+padding: 24px;
+} 
+
+.cabeçalho-imagem{
+    height: 90px;
+    size: 72px;
+}
+
+.cabeçalho-titulo{
+color:rgb(206, 16, 16);
+font-family: 'Times New Roman', Times, serif;
+font-weight: 400}
+
+.sobre{
+color: rgb(235, 235, 245);
+background-color: black;
+}
+
+.cardapio{
+    color: rgb(235, 235, 245);
+    background-color: black;
+    display: flex;
+    flex-direction:column;
+    align-items: left;
+    justify-content: space-around;
+}
+.total{ color: rgb(235, 235, 245);
+    background-color: black;
+    
+}
+.coffe {
+    height: 90px;
+    size: 72px;
+}
+h2{ 
+    font-size: 150%;
+    color: rgb(224, 224, 230);
+    border: #e21717d5;
+    text-align: center;
+    font-style: italic;
+
+}
+li{
+ font-size: 95%;
+ font-family: Arial, Helvetica, sans-serif;
+
+
+}
